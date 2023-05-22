@@ -1,4 +1,4 @@
-# FP-A
+# Financial Planning
 
 # Word: Forecasted financial statement analysis (list of all the inputs, variables, and explanations of assumptions for the forecasting rationale, AFN or Excess cash, financial ratio analysis)
 
